@@ -1,1 +1,2 @@
-# refactoring-workshop-2019
+# refactoring-workshop-2020
+Ćwiczenia refactoring cz. II
